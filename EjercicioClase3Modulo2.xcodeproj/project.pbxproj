@@ -14,6 +14,9 @@
 		FB8543681E6901970048CA66 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FB8543661E6901970048CA66 /* Main.storyboard */; };
 		FB85436A1E6901970048CA66 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FB8543691E6901970048CA66 /* Assets.xcassets */; };
 		FB85436D1E6901970048CA66 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FB85436B1E6901970048CA66 /* LaunchScreen.storyboard */; };
+		FB8543771E6904660048CA66 /* ElementoTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB8543761E6904660048CA66 /* ElementoTableViewCell.swift */; };
+		FB8543791E6905810048CA66 /* TablaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB8543781E6905810048CA66 /* TablaViewController.swift */; };
+		FB85437B1E69064D0048CA66 /* Elemento.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB85437A1E69064D0048CA66 /* Elemento.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +29,9 @@
 		FB8543691E6901970048CA66 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FB85436C1E6901970048CA66 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FB85436E1E6901970048CA66 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FB8543761E6904660048CA66 /* ElementoTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ElementoTableViewCell.swift; sourceTree = "<group>"; };
+		FB8543781E6905810048CA66 /* TablaViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TablaViewController.swift; sourceTree = "<group>"; };
+		FB85437A1E69064D0048CA66 /* Elemento.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Elemento.swift; path = ../Elemento.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +72,9 @@
 				FB8543691E6901970048CA66 /* Assets.xcassets */,
 				FB85436B1E6901970048CA66 /* LaunchScreen.storyboard */,
 				FB85436E1E6901970048CA66 /* Info.plist */,
+				FB8543761E6904660048CA66 /* ElementoTableViewCell.swift */,
+				FB85437A1E69064D0048CA66 /* Elemento.swift */,
+				FB8543781E6905810048CA66 /* TablaViewController.swift */,
 			);
 			path = EjercicioClase3Modulo2;
 			sourceTree = "<group>";
@@ -146,6 +155,9 @@
 				FB8543651E6901970048CA66 /* ModelController.swift in Sources */,
 				FB8543631E6901970048CA66 /* DataViewController.swift in Sources */,
 				FB85435F1E6901970048CA66 /* AppDelegate.swift in Sources */,
+				FB8543791E6905810048CA66 /* TablaViewController.swift in Sources */,
+				FB8543771E6904660048CA66 /* ElementoTableViewCell.swift in Sources */,
+				FB85437B1E69064D0048CA66 /* Elemento.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
