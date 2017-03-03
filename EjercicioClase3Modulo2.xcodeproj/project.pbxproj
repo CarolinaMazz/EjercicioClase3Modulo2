@@ -17,6 +17,8 @@
 		FB8543771E6904660048CA66 /* ElementoTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB8543761E6904660048CA66 /* ElementoTableViewCell.swift */; };
 		FB8543791E6905810048CA66 /* TablaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB8543781E6905810048CA66 /* TablaViewController.swift */; };
 		FB85437B1E69064D0048CA66 /* Elemento.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB85437A1E69064D0048CA66 /* Elemento.swift */; };
+		FB85437D1E690B010048CA66 /* GrillaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB85437C1E690B010048CA66 /* GrillaViewController.swift */; };
+		FB85437F1E690BF80048CA66 /* CeldaCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB85437E1E690BF80048CA66 /* CeldaCollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +34,8 @@
 		FB8543761E6904660048CA66 /* ElementoTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ElementoTableViewCell.swift; sourceTree = "<group>"; };
 		FB8543781E6905810048CA66 /* TablaViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TablaViewController.swift; sourceTree = "<group>"; };
 		FB85437A1E69064D0048CA66 /* Elemento.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Elemento.swift; path = ../Elemento.swift; sourceTree = "<group>"; };
+		FB85437C1E690B010048CA66 /* GrillaViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GrillaViewController.swift; sourceTree = "<group>"; };
+		FB85437E1E690BF80048CA66 /* CeldaCollectionViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CeldaCollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +79,8 @@
 				FB8543761E6904660048CA66 /* ElementoTableViewCell.swift */,
 				FB85437A1E69064D0048CA66 /* Elemento.swift */,
 				FB8543781E6905810048CA66 /* TablaViewController.swift */,
+				FB85437C1E690B010048CA66 /* GrillaViewController.swift */,
+				FB85437E1E690BF80048CA66 /* CeldaCollectionViewCell.swift */,
 			);
 			path = EjercicioClase3Modulo2;
 			sourceTree = "<group>";
@@ -158,6 +164,8 @@
 				FB8543791E6905810048CA66 /* TablaViewController.swift in Sources */,
 				FB8543771E6904660048CA66 /* ElementoTableViewCell.swift in Sources */,
 				FB85437B1E69064D0048CA66 /* Elemento.swift in Sources */,
+				FB85437D1E690B010048CA66 /* GrillaViewController.swift in Sources */,
+				FB85437F1E690BF80048CA66 /* CeldaCollectionViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
